@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameUI", "GameUI\GameUI.csproj", "{327AA3C9-49AF-4EF2-ABA6-7A9FD5E866FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{327AA3C9-49AF-4EF2-ABA6-7A9FD5E866FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327AA3C9-49AF-4EF2-ABA6-7A9FD5E866FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327AA3C9-49AF-4EF2-ABA6-7A9FD5E866FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327AA3C9-49AF-4EF2-ABA6-7A9FD5E866FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB651BD1-CBB4-4168-B299-00A681388470}
+	EndGlobalSection
+EndGlobal
