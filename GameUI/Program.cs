@@ -25,6 +25,7 @@ namespace GameUI
             Console.WriteLine("Please enter your name: ");
             string charName = Console.ReadLine();
             int gladiatorFame = 0;
+            Player Gladiator = new Player("Gladiator", 10, 1, 1, 5, 1, gladiatorFame);
             Combat.PreCombat(charName, gladiatorFame);
 
             Console.ReadLine();

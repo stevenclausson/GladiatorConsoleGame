@@ -13,7 +13,7 @@ namespace GameUI
 
         public static void Closing()
         {
-
+            Console.WriteLine("Congrats on beating the game! The end!");
         }
     }
 }
